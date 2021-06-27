@@ -11,4 +11,4 @@ steps:
       - flake8
       
 node:
-  foo:bar
+  foo: bar
